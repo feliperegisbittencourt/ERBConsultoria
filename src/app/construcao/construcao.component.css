@@ -1,0 +1,15 @@
+.breve{
+    display: flex;
+    font-size: 50pt;
+    width: 100vw;
+    height: 47.5vh;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+h5{
+    font-size: 50pt;
+}

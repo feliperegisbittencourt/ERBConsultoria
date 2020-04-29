@@ -1,0 +1,91 @@
+body{
+    margin-top: -50px;
+}
+
+.service{
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.content{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 95vw;
+}
+
+.imagem-carrossel{
+    object-fit: cover;
+    height: 40vh;
+}
+
+.sp{
+    margin-right: 0.5%;
+}
+
+.spacer{
+    flex:1;
+}
+
+.card{
+    min-width: 20vw;
+}
+
+.card-header{
+    text-align: center;
+}
+
+fa-icon{
+    font-size: 50px;
+}
+
+
+/* equal card height */
+.row-equal > div[class*='col-'] {
+    display: flex;
+    flex: 1 0 auto;
+}
+
+.row-equal .card {
+   width: 100%;
+}
+
+.flex{
+    display: flex;
+}
+
+.carousel-indicators li{
+    background-color: darkgray;
+}
+
+.carousel-indicators .active{
+    background-color: black;
+}
+
+.carousel-control-prev{
+    margin-left: -13vw;
+}
+
+.carousel-control-next{
+    margin-right: -13vw;
+}
+
+.carousel-control-prev span{
+    margin-right: -10.5vw;
+}
+
+.carousel-control-next span{
+    margin-left: -10.5vw;
+}
+
+.carousel{
+    margin: 0 auto;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}

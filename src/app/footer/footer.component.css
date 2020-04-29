@@ -1,0 +1,61 @@
+.content{
+    height: 30vh;
+    width: 100%;
+    background-color: #d3d3d3;
+    margin-top: 30px;
+}
+
+.direitos{
+    height: 5vh;
+    width: 100%;
+    background-color: #464E51;
+    color:white;
+    vertical-align: middle;
+}
+
+.top{
+    display: flex;
+    width: 70vw;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.about{
+    display: flex;
+    width:90vw;
+    margin:0 auto;
+}
+
+.spacer{
+    flex: 1;
+}
+
+h6{
+    font-size: 8pt;
+}
+
+.links{
+    margin-left: 5.7vw;
+}
+
+.contact{
+    margin-left: 8vw;
+}
+
+.info{
+    display:flex;
+    margin-bottom: 2vh;
+}
+
+p{
+    margin-left: 1vw;
+    margin-bottom: 0;
+}
+
+.centerphone{
+    margin-left: 11.2vw;
+}
+
+.centerplace{
+    margin-left: 10vw;
+}
