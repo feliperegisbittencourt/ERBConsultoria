@@ -1,0 +1,73 @@
+.topimg{
+    height: 50vh;
+    width: 100vw;
+}
+
+.headerQS h1{
+    position: absolute;
+    top: 25vh;
+    left: 5vw;
+    font-size: 50pt;
+}
+
+.textContentQS{
+    width: 90vw;
+    margin: 0 auto;
+    margin-top: 2vh;
+}
+
+.textContentQS h4{
+    margin-left: 1vw;
+}
+
+.fotosHeranca{
+    display: flex;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    margin-bottom: 5vh;
+}
+
+.spacer{
+    flex: 1;
+}
+
+.socio{
+    display: flex;
+}
+
+.socio p{
+    margin-left: 4vw;
+    margin-right: 4vw;
+    margin-top: 5vh;
+}
+
+.socioInfo .centBtn{
+    margin-top: 3vh;
+    text-align: center;
+}
+
+.leftimg{
+    width: 15vw;
+    margin-left: 1vw;
+}
+
+.fotosHeranca .leftimg{
+    margin-left: 0vw;
+    margin-bottom: 5vh;
+}
+
+figure {
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 1em;
+  }
+
+.btnHist{
+    border-radius: 50px;
+    width: 150px;
+    height: 35px;
+}

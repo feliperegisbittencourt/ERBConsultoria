@@ -7,14 +7,23 @@
               <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
-              <div class="carousel-item active">
+              <div class="carousel-item active" [routerLink]="['/service']">
                 <img class="d-block w-100 imagem-carrossel" src="../../assets/Slider-principal.jpg" alt="The Legend of Zelda: A Link to The Past">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Você precisa de serviços para ajudar na gestão e funcionamento da rodovia?</h5>
+                </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item" [routerLink]="['/service']">
                 <img class="d-block w-100 imagem-carrossel" src="../../assets/Slider2.JPG" alt="Secret of Mana">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Oferecemos os melhores serviços e as melhores opções para sua empresa.</h5>
+                </div>
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100 imagem-carrossel" src="../../assets/slide3.JPG" alt="Trials of Mana">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Entenda um pouco mais sobre a nossa empresa.</h5>
+                </div>
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

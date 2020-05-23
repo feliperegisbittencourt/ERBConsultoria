@@ -24,6 +24,9 @@ import { NgxArcTextModule } from 'ngx-arc-text';
 import { ModalServiceComponent } from './modal-service/modal-service.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatDialogModule } from '@angular/material';
+import { TelaCasesComponent } from './tela-cases/tela-cases.component';
+import { TelaRodoviaComponent } from './tela-rodovia/tela-rodovia.component';
+import { TelaFaleConoscoComponent } from './tela-fale-conosco/tela-fale-conosco.component';
 
 
 @NgModule({
@@ -42,7 +45,10 @@ import { MatDialogModule } from '@angular/material';
     TelaAssessoramentoComponent,
     ConstrucaoComponent,
     GridServicosComponent,
-    ModalServiceComponent
+    ModalServiceComponent,
+    TelaCasesComponent,
+    TelaRodoviaComponent,
+    TelaFaleConoscoComponent
   ],
   imports: [
     BrowserModule,

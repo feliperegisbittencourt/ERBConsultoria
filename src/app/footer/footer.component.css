@@ -1,6 +1,6 @@
 .content{
-    height: 30vh;
-    width: 100%;
+    height: 12.5vw;
+    width: 100vw;
     background-color: #d3d3d3;
     margin-top: 30px;
 }
@@ -11,6 +11,7 @@
     background-color: #464E51;
     color:white;
     vertical-align: middle;
+    margin-bottom: 0;
 }
 
 .top{
@@ -34,12 +35,8 @@ h6{
     font-size: 8pt;
 }
 
-.links{
-    margin-left: 5.7vw;
-}
-
-.contact{
-    margin-left: 8vw;
+.tituloFooter{
+    text-align: center;
 }
 
 .info{

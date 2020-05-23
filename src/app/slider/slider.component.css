@@ -7,3 +7,8 @@
     width: 90vw;
     margin: 0 auto;
 }
+
+.carousel-caption h5{
+    color: #36454f;
+    text-shadow: 1px 1px #ffffff;
+}
