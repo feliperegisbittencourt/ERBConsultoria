@@ -1,0 +1,36 @@
+.flex{
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.geral{
+    margin-top: 70px;
+}
+
+.circle-icon {
+    background: #D3D3D3;
+    width: 75%;
+    height: 85%;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 30px;
+    font-size: 100pt;
+    margin: 0 auto;
+}
+
+.col{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.curve{
+    font-size: 10pt;
+}
+
+.geral h2{
+    margin-left: 1vw;
+    margin-bottom: 3vh;
+}

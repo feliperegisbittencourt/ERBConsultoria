@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -18,6 +19,11 @@ import { TelaCapacidadeTecnicaComponent } from './tela-capacidade-tecnica/tela-c
 import { TelaHistoricoProfissionalComponent } from './tela-historico-profissional/tela-historico-profissional.component';
 import { TelaAssessoramentoComponent } from './tela-assessoramento/tela-assessoramento.component';
 import { ConstrucaoComponent } from './construcao/construcao.component';
+import { GridServicosComponent } from './grid-servicos/grid-servicos.component';
+import { NgxArcTextModule } from 'ngx-arc-text';
+import { ModalServiceComponent } from './modal-service/modal-service.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatDialogModule } from '@angular/material';
 
 
 @NgModule({
@@ -34,14 +40,21 @@ import { ConstrucaoComponent } from './construcao/construcao.component';
     TelaCapacidadeTecnicaComponent,
     TelaHistoricoProfissionalComponent,
     TelaAssessoramentoComponent,
-    ConstrucaoComponent
+    ConstrucaoComponent,
+    GridServicosComponent,
+    ModalServiceComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FontAwesomeModule,
-    CommonModule
+    CommonModule,
+    NgxArcTextModule,
+    BrowserAnimationsModule,
+    MatDialogModule,
+    HttpClientModule
   ],
+  entryComponents:[ModalServiceComponent],
   providers: [],
   bootstrap: [AppComponent]
 })

@@ -1,0 +1,68 @@
+{
+    "body":{
+        "data":[
+            {
+                "name": "Drones Industriais",
+                "img": "../../assets/drone.jpg",
+                "text": "No fim de fevereiro, a China começou a usar drones (VANT - Veículo Aéreo Não Tripulado) para desinfecção das cidades. Um olhar superficial não revela a profunda transformação no modo de operar em cidades e a inteligência por traz disso. Os drones são nossos conhecidos já há alguns anos, se não temos um, sabemos ao menos do que são capazes no cinema, no patrulhamento, na diversão (registrando momentos e imagens especiais). O coronavírus é severo e tem como ponto de extrema importância o alto período de atividade. Desta forma a desinfectação das áreas públicas é altamente necessária. Apresentamos os drones da empresa chinesa TT Aviation. Estes drones foram desenvolvidos em uma ação conjunta do Governo da China e a OMS – Organização Mundial de Saúde. Estão em operação hoje desinfectando milhares de quilômetros diariamente na China, no Chile, na Itália, na Grécia, Malásia, Hungria, Gana, dentre outros países.<br>Estes drones foram desenvolvidos para operarem com produtos químicos, como o BIOTEC 50NO e o BIOGERM. Podem transportar 10 litros de desinfectante, por voo, e alcançam distancias de até 10Km. Estão equipados com vários sensores e Gerenciados por softwares que vem sendo desenvolvidos a anos, ou seja, seguros."
+            },
+            {
+                "name": "Cidades Inteligentes",
+                "img": "../../assets/cidadesInteligentes.png",
+                "text": "Parceria com diversas empresas com grande capacidade técnica e experiência na implantação de redes de fibra óptica, circuito fechado de televisão – CFTV, Paíneis de Mensagens Variáveis - PMV Fixos e Móveis, implantação de contadores de tráfego – SAT, detectores de altura, estações meteorológicas, sistema de radicomunicação digital."
+            },
+            {
+                "name": "Sistema de Gerenciamento Operacional",
+                "img": "../../assets/sistemaGerencialmento.png",
+                "text": "Parceria empresa com grande capacidade técnica e experiência na implantação de centro de controles operacionais – CCOs, bem como o gerenciamento dos dados de tráfego e arrecadação, com a criação de painéis de controle e indicadores, utilizando a ferramenta Power BI."
+            },
+            {
+                "name": "Cidades Vigiadas",
+                "img": "../../assets/vigiadas.png",
+                "text": "Estamos em parceria com uma empresa de monitoramento de “Cidades Vigiadas”, já com instalação de 130 câmeras no Município de Uberaba/MG."
+            },
+            {
+                "name": "Tapa Buraco utilizando o Produto “CHIP FILL”",
+                "img": "../../assets/tapa.png",
+                "text": "A representação do produto “Chip Fill”, é de exclusividade das empresas: AEROSAT Engenharia e E R Bittencourt Consultoria de Operações."
+            },
+            {
+                "name": "Manutenção e Conservação Rodoviária",
+                "img": "../../assets/manutancao.png",
+                "text": "Parceria empresa com experiência nos serviços da implantação dos serviços de Manutenção e conservação de rodovia, abrangendo os seguintes serviços:"
+            },
+            {
+                "name": "Implantação de Sistema de Iluminação a LED",
+                "img": "../../assets/led.png",
+                "text": "Possuímos “KNOW HOW” em implantação e manutenção  do sistema de iluminação.<br>Estamos participando de divervas concorrências de PPPs de Iluminação Pública em Municípios, tais como Angra dos Reis e Vassouras."
+            },
+            {
+                "name": "Implantação e Manutenção da Sinalização Vertical e Horizontal",
+                "img": "../../assets/sinalizacao.png",
+                "text": "Parceria com empresas que tem experiência na prestação do serviço de Implantação e Manutenção da Sinalização Vertical e Horizontal."
+            },
+            {
+                "name": "Implantação de Dispositivos de Proteção Viária",
+                "img": "../../assets/seguranca.png",
+                "text": "Temos parceria com empresas que realizam os serviços de Implantação de Dispositivos de Proteção Viária."
+            },
+            {
+                "name": "Serviço de Atendimento ao Usuário - SAU",
+                "img": "../../assets/sau.png",
+                "text": "Parceria com empresas do serviço médico emergencial (SAU-Médico) e do serviço de atendimento mecânico emergencial (SAU-Mecânico) com capacidade técnica e experiência no ramo com a prestação de serviços em diversas concessionárias de rodovia."
+            },
+            {
+                "name": "Locação de veículos leves, pesados e equipamentos",
+                "img": "../../assets/locacao.png",
+                "text": "Tenho uma parceria com empresas de locação de veículos leves (automóveis), veículos pesados (guinchos leves e pesados, caminhão munck, caminhão com cesto aéreo) e equipamentos (motoniveladora, retroescavadeira, carregadeira, escavadeira, caminhões caçambas tocos e traçados."
+            },
+            {
+                "name": "Estudos de Mobilidade de Transporte",
+                "img": "../../assets/mobilidade.jpg",
+                "text": "Tenho uma parceria com um dos grandes escritórios de Consultoria de Estudos de Mobilidade de Transporte, com experiência na realização de estudos de tráfego, estudos de mobilidade de transporte (transporte coletivo, ciclovia e pedestre), estudo de viabilidade econômica/financeira de um projeto, auditorias, com clientes em várias concessionárias de rodovias, prefeituras e outros orgãos."
+            }
+        ],
+        "message": "Return Successfully!"
+    },
+    "statusCode": 200
+}

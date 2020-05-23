@@ -1,13 +1,13 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { MatDialog } from '@angular/material';
 import { ModalServiceComponent } from '../modal-service/modal-service.component';
 
 @Component({
-  selector: 'app-services',
-  templateUrl: './services.component.html',
-  styleUrls: ['./services.component.css']
+  selector: 'app-grid-servicos',
+  templateUrl: './grid-servicos.component.html',
+  styleUrls: ['./grid-servicos.component.css']
 })
-export class ServicesComponent implements OnInit {
+export class GridServicosComponent implements OnInit {
 
   constructor(public dialog: MatDialog) { }
 
@@ -24,4 +24,5 @@ export class ServicesComponent implements OnInit {
       }
     )
   }
+
 }
