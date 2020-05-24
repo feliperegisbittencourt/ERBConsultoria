@@ -1,0 +1,49 @@
+.historico{
+    margin: 0 auto;
+    width: 90vw;
+    margin-top: 12vh;
+}
+
+.education{
+    width: 85vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+    display: flex;
+}
+
+.education img{
+    width: 10vw;
+}
+
+.education .right{
+    margin: 0 auto;
+    margin-left: 5vw;
+    margin-top: 2.3vw;
+    font-size: 14pt;
+}
+
+.education .left{
+    margin: 0 auto;
+    margin-right: 5vw;
+    margin-top: 2.3vw;
+    font-size: 14pt;
+}
+
+.titleH{
+    margin-top: 3vw;
+}
+
+.historico h5{
+    margin: 0vw 1vw;
+    font-weight: normal;
+    font-size: 14pt;
+    margin-bottom: 1vh;
+}
+
+.historico ul{
+    margin: 0vw 1vw;
+}
+
+li{
+    margin-bottom: 1vh;
+}

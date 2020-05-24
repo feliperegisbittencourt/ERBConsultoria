@@ -1,0 +1,19 @@
+.formulario{
+    width: 70vw;
+    margin: 0 auto;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+.externo{
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 12vh;
+    border: 1px solid lightgray;
+    border-radius: 50px;
+    background-color: #aeaeae;
+}
+
+.text-area{
+    height: 15vh;
+}

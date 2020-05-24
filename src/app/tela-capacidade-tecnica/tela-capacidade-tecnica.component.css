@@ -13,11 +13,15 @@
 .textContentQS{
     width: 90vw;
     margin: 0 auto;
-    margin-top: 2vh;
+    margin-top: 4vh;
 }
 
 .textContentQS h4{
     margin-left: 1vw;
+}
+
+.textContentQS h5{
+    margin-top: 3vh;
 }
 
 .fotosHeranca{
@@ -70,4 +74,6 @@ figure {
     border-radius: 50px;
     width: 150px;
     height: 35px;
+    background-image: linear-gradient(180deg, #9370db, #add8e6);
+    color: #ffffff;
 }

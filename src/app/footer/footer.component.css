@@ -36,6 +36,7 @@ h6{
 }
 
 .tituloFooter{
+    margin-top: 2vh;
     text-align: center;
 }
 
@@ -50,9 +51,9 @@ p{
 }
 
 .centerphone{
-    margin-left: 11.2vw;
+    margin: 0 auto;
 }
 
 .centerplace{
-    margin-left: 10vw;
+    margin: 0 auto;
 }
